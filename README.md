@@ -9,5 +9,5 @@ Initial setup for the Solar Challenge project — environment, Git, and CI confi
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/solar-challenge-week0.git
+git clone https://github.com/USERNAME/solar-challenge-week0.git
 cd solar-challenge-week0
