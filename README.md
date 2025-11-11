@@ -11,3 +11,11 @@ Initial setup for the Solar Challenge project — environment, Git, and CI confi
 ```bash
 git clone https://github.com/YOUR-USERNAME/solar-challenge-week0.git
 cd solar-challenge-week0
+
+## How to run locally
+1. Clone repo
+2. Make sure `data/` folder contains the cleaned CSVs
+3. Install requirements: `pip install -r requirements.txt`
+4. Run Streamlit app: `streamlit run app/main.py`
+### dashboard review
+image.png
