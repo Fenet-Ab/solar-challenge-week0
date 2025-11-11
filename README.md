@@ -18,4 +18,5 @@ cd solar-challenge-week0
 3. Install requirements: `pip install -r requirements.txt`
 4. Run Streamlit app: `streamlit run app/main.py`
 ### dashboard review
-image.png
+<img width="1907" height="878" alt="image" src="https://github.com/user-attachments/assets/57e30e43-4597-4ef6-a90e-f94d2705e2ff" />
+
